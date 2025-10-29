@@ -3,6 +3,11 @@
 ![image](https://github.com/user-attachments/assets/67a4c155-a43f-42d3-a804-c0593a6156c6) (Choosing a chess game mode)
 ![image](https://github.com/user-attachments/assets/4c52f499-c830-41fa-ab36-f16de38677a8) (Chess game)
 ![image](https://github.com/user-attachments/assets/03f0bd3b-75fc-4fa4-bde5-61551a3d6fbd) (Checkmate)
+
+
+
+
+
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/f516fd55-935b-4501-a304-ca847abe3de0" />
 <img width="800" height="421" alt="image" src="https://github.com/user-attachments/assets/69fdd1ae-736b-4b8b-95be-260d760e0bbd" />
 <img width="800" height="392" alt="image" src="https://github.com/user-attachments/assets/7307eb38-463d-42ad-8041-64898d361652" />
