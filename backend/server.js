@@ -43,7 +43,7 @@
 
 // // MongoDB connection string and client setup
 // const uri =
-//   "mongodb+srv://<user>:<password>@ultimate-website.khl5l93.mongodb.net/?retryWrites=true&w=majority&appName=ultimate-website";
+//   process.env.MONGODB_URI;
 // const client = new MongoClient(uri, {
 //   serverApi: {
 //     version: ServerApiVersion.v1,
