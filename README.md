@@ -1,14 +1,14 @@
-![image](https://github.com/user-attachments/assets/af70996e-05db-4a08-9718-d778f97fb518) (Home page)
-![image](https://github.com/user-attachments/assets/82153d2e-2490-4db4-9b5f-5425f580e95d) (Displaying to the user the time spent on the website)
-![image](https://github.com/user-attachments/assets/67a4c155-a43f-42d3-a804-c0593a6156c6) (Choosing a chess game mode)
-![image](https://github.com/user-attachments/assets/4c52f499-c830-41fa-ab36-f16de38677a8) (Chess game)
-![image](https://github.com/user-attachments/assets/03f0bd3b-75fc-4fa4-bde5-61551a3d6fbd) (Checkmate)
+![image](docs/screenshots/screenshot-1.png) (Home page)
+![image](docs/screenshots/screenshot-2.png) (Displaying to the user the time spent on the website)
+![image](docs/screenshots/screenshot-3.png) (Choosing a chess game mode)
+![image](docs/screenshots/screenshot-4.png) (Chess game)
+![image](docs/screenshots/screenshot-5.png) (Checkmate)
 
 
 
 
 
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/f516fd55-935b-4501-a304-ca847abe3de0" />
-<img width="800" height="421" alt="image" src="https://github.com/user-attachments/assets/69fdd1ae-736b-4b8b-95be-260d760e0bbd" />
-<img width="800" height="392" alt="image" src="https://github.com/user-attachments/assets/7307eb38-463d-42ad-8041-64898d361652" />
+<img width="800" height="450" alt="image" src="docs/screenshots/screenshot-6.png" />
+<img width="800" height="421" alt="image" src="docs/screenshots/screenshot-7.png" />
+<img width="800" height="392" alt="image" src="docs/screenshots/screenshot-8.png" />
 
